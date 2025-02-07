@@ -8,4 +8,4 @@
 
 ## How To Support Ideas
 
-- Go to the [issues] section and give 👍 to the issues you think would be valuable for Nepal
+- Go to the [issues](https://github.com/build-for-nepal/ideas/issues) section and give 👍 to the issues you think would be valuable for Nepal
